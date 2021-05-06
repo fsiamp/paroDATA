@@ -11,5 +11,5 @@ Tool is complatible only with MAC OS X systems.
 
 # Screenshots
 
-![alt tag](https://raw.githubusercontent.com/fsiamp/parodata-archiver/master/submit.png)
+![alt tag](https://raw.githubusercontent.com/fsiamp/parodata/master/submit.png)
 
